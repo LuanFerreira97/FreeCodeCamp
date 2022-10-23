@@ -1,2 +1,2 @@
-# FreeCodeCamp
-Projetos feitos através do FreeCodeCamp no qual estou em busca tirando certificação de Design responsivo, utilizando HTML e CSS
+# FreeCodeCamp Ex1
+Primeiro projeto do FreeCodeCamp utilizando HTML para fazer um site sobre gatos. 
